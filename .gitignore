@@ -1,0 +1,8 @@
+# Binarios y objetos
+*.o
+*.exe
+*.out
+
+# Archivos temporales
+*.swp
+*~
